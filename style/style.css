@@ -1,0 +1,54 @@
+h1 {
+    background-color: black;
+    color: rgb(242, 120, 120);
+    text-align: center;
+}
+ 
+.cocoa {
+    background-color: brown;
+}
+
+.oreo {
+    background-color: black;
+}
+
+.mac {
+    background-color: yellow;
+}
+
+
+.recipes.cocoa{
+    color: red;
+    background-color: green;
+}
+
+.image.cocoa{
+    width: 300px;
+    height: 300px;
+    
+}
+
+.prep.cocoa{
+    break-inside: auto;
+    background-color: pink;
+    font-weight: bold;
+}
+
+.ingredients.cocoa {
+    background-color: pink;
+    color: black;
+}
+
+.ingredients {
+    color: green;
+    background-color: orange;
+}
+
+h2.directions.cocoa{
+    background-color: green;
+}
+
+p.cocoa{
+    color: red;
+    background-color: black;
+}
